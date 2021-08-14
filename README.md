@@ -1,2 +1,2 @@
 # SummerSeed
-This repository contains assignments that I completed during my summer internship.
+This repository contains assignments that I completed during my Summer 2021 internship.
